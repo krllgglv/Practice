@@ -10,6 +10,7 @@ class Cat extends Animals{
     public int makenoise(float a, float b) {
         System.out.println(" привет от кошки");
         System.out.println("commit 2");
+        System.out.println("commit 3");
         return (int) a;
     }
     public void makeCatsNoise(){
